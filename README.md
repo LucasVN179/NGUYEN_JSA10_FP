@@ -3,4 +3,7 @@
 ## Ideas
 
 ## Check point
-- [ ] header(navbar), footer(+contact)
+- [ ] header(navbar)
+- [ ] information
+- [ ] shop
+- [ ] footer(+contact)
